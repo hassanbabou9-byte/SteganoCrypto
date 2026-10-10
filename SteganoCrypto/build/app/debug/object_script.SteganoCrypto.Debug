@@ -1,0 +1,12 @@
+debug/chiffrement.o
+debug/passwordhasher.o
+debug/steganography.o
+debug/databasemanager.o
+debug/loginwindow.o
+debug/main.o
+debug/mainwindow.o
+debug/signupwindow.o
+debug/moc_databasemanager.o
+debug/moc_loginwindow.o
+debug/moc_mainwindow.o
+debug/moc_signupwindow.o
