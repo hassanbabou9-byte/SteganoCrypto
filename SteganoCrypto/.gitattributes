@@ -1,0 +1,6 @@
+* text=auto
+*.pro text eol=lf
+*.pri text eol=lf
+*.png binary
+*.jpg binary
+*.bmp binary
